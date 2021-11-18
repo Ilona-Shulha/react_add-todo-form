@@ -1,0 +1,2 @@
+.App{text-align:center;padding:30px;box-sizing:border-box}.todo-form{margin:0 auto;max-width:900px;display:grid;grid-template-columns:60% 25% 10%;grid-template-rows:40px 1fr;grid-gap:5px;gap:5px}.user-error{grid-area:2/2}.todo-form__error{visibility:hidden;border:2px solid #a00404;border-radius:5px;background-color:#fdabab}.error-active{visibility:visible}.todo-list-item{text-align:left}
+/*# sourceMappingURL=main.8f15b48c.chunk.css.map */
